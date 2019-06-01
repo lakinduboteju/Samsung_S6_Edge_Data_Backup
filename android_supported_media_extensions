@@ -1,0 +1,31 @@
+# Android supported media format extensions
+# Reference : https://developer.android.com/guide/topics/media/media-formats
+supported_media_ext=( 
+    .3gp 
+    .mp4 
+    .m4a 
+    .aac 
+    .ts 
+    .flac 
+    .gsm 
+    .mid 
+    .xmf 
+    .mxmf 
+    .rtttl 
+    .rtx 
+    .ota 
+    .imy 
+    .mp3 
+    .wav 
+    .ogg 
+    .mkv 
+    .webm 
+    .bmp 
+    .gif 
+    .jpg 
+    .png 
+    .webp 
+    .heic 
+    .heif
+)
+
